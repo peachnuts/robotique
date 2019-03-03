@@ -1,0 +1,2 @@
+fakeLaserScan
+-DCATKIN_DEVEL_PREFIX=/home/odroid/fakelaserscan/devel -DCMAKE_INSTALL_PREFIX=/home/odroid/fakelaserscan/install -G Unix Makefiles

@@ -1,0 +1,12 @@
+.\objects\tm_stm32_delay.o: USB_DEVICE_CDC\TM_STM32_Libraries\tm_stm32_delay.c
+.\objects\tm_stm32_delay.o: USB_DEVICE_CDC\TM_STM32_Libraries\tm_stm32_delay.h
+.\objects\tm_stm32_delay.o: USB_DEVICE_CDC\TM_STM32_Libraries\stm32fxxx_hal.h
+.\objects\tm_stm32_delay.o: ..\uart\defines.h
+.\objects\tm_stm32_delay.o: .\CMSIS_4.0.0\Device\ST\STM32F4xx\Include\stm32f4xx_2.h
+.\objects\tm_stm32_delay.o: .\CMSIS_4.0.0\Device\ST\STM32F4xx\Include\stm32f407xx.h
+.\objects\tm_stm32_delay.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h
+.\objects\tm_stm32_delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tm_stm32_delay.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+.\objects\tm_stm32_delay.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+.\objects\tm_stm32_delay.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h
+.\objects\tm_stm32_delay.o: .\CMSIS_4.0.0\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
